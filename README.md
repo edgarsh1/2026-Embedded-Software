@@ -31,7 +31,7 @@
 | `seven_seg_driver.v` | 4자리 7세그먼트 표시 (거리값 / FFFF) |
 | `uart_rx.v` | 라즈베리파이 UART 수신 |
 | `top.xdc` | 핀 제약 파일 (Basys3) |
-| `raspberry_pi/camera_classify.py` | 카메라 색상분류 파이썬 코드 |
+| `camera_classify.py` | 카메라 색상분류 파이썬 코드 |
 
 ## 개발 중 주요 이슈
 
